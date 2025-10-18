@@ -10,7 +10,7 @@
 ## Project Overview
 This project implements a robust head pose estimation system using ResNet-18, designed to detect abnormal head movements during online exams. The model accurately predicts yaw, pitch, and roll angles while classifying head poses into categories—enabling identification of suspicious behaviors like frequent turning, tilting, or looking away.
 
-### Features
+## Features
 - Estimates **yaw**, **pitch**, and **roll** angles in real time  
 - Detects suspicious head movements (e.g., looking sideways or down)  
 - Uses ResNet-18 backbone for optimal speed–accuracy trade-off  
